@@ -11,7 +11,7 @@
     "mysql": "^2.18.1",
     "static": "^2.0.0"
   },
-  "name": "project1",
+  "name": "heynature",
   "version": "1.0.0",
   "description": "project",
   "main": "server.js",
@@ -20,12 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jinju0228/node.git"
-  },
-  "author": "jinju",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jinju0228/node/issues"
-  },
-  "homepage": "https://github.com/jinju0228/node#readme"
+    "url": "git+https://github.com/KimYuRa2/heynature.git"
+  }
+
 }
