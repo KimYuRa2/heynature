@@ -1,5 +1,5 @@
 // 자동 계산해주기
-
+//test
 var sell_price;
 var amount;
 var total_price1 = document.querySelector('#total1');
