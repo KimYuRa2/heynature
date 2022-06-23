@@ -1,5 +1,5 @@
-var app = require('../app')
-const port = process.env.PORT || 3000; 
+var app = require('../app.js')
+const port = process.env.PORT ||3000; 
 
 
 
